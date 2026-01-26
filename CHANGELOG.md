@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-26)
+## Unreleased (2026-01-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b98b7fd`](https://github.com/stdlib-js/stdlib/commit/b98b7fdd51f62e84065397f1d261a125aa62ad23) - **bench:** refactor to use string interpolation in `number/float16/base` [(#9906)](https://github.com/stdlib-js/stdlib/pull/9906) _(by Lokesh Ranjan)_
 -   [`289adf4`](https://github.com/stdlib-js/stdlib/commit/289adf495a9a9cd2908cf7622428f9427cb8d240) - **feat:** add `number/float16/base/to-float32` [(#9280)](https://github.com/stdlib-js/stdlib/pull/9280) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Lokesh Ranjan
 
 </section>
 
