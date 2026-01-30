@@ -49,14 +49,14 @@
     "@stdlib/constants-float32-exponent-mask": "^0.2.2",
     "@stdlib/constants-float32-num-significand-bits": "^0.1.0",
     "@stdlib/number-float16-ctor": "^0.1.0",
-    "@stdlib/number-float32-base-to-float16": "github:stdlib-js/number-float32-base-to-float16#main",
+    "@stdlib/number-float32-base-to-float16": "^0.1.0",
     "@stdlib/number-float64-base-to-float16": "^0.1.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-base-map": "github:stdlib-js/array-base-map#main",
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float32-ninf": "^0.2.2",
     "@stdlib/constants-float32-pinf": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
