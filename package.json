@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float16-base-to-float32",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert a half-precision floating-point number to the nearest single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
